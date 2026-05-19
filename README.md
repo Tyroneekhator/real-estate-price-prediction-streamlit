@@ -17,7 +17,7 @@ In simple terms, this project does two main things:
 
 A recorded demonstration of the project has been included in the project files. The video shows how the application works and can be used to present the project during assessment or review.
 
-[Watch the Project Demo Video](/Real-estate-prediction-main/stock%20price%20prediction%20project.mp4)
+[Watch the Project Demo Video](stock%20price%20prediction%20project.mp4)
 
 ---
 
