@@ -76,7 +76,7 @@ This helps users understand which locations and property types are generally mor
 ---
 
 ### 3. Location Map
-
+  ![map location](images/maplocation.png)
 After a prediction is made, the app can show the selected property location on a map.
 
 It uses:
