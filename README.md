@@ -43,6 +43,8 @@ The application also tries to display the selected property location on a map us
 
 ### 1. House Price Prediction
 
+[home_page](homescreen.png)
+
 The prediction page allows users to enter property details and receive an estimated house price.
 
 The model uses the following input features:
