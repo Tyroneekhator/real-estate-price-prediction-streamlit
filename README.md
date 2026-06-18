@@ -60,6 +60,7 @@ The predicted output is:
 ---
 
 ### 2. Market Insights / Explore Page
+  ![eda](images/Exploratory Data Analysis.png)
 
 The explore page gives visual information about the Nigerian housing market. It loads the dataset, cleans it, removes outliers, and then displays charts.
 
