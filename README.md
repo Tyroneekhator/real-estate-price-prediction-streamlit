@@ -42,8 +42,6 @@ The application also tries to display the selected property location on a map us
 ## Main Features
 
 ### 1. House Price Prediction
-![homescreen.png]
-
 
 The prediction page allows users to enter property details and receive an estimated house price.
 
